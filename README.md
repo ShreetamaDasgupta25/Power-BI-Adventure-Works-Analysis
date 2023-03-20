@@ -19,7 +19,7 @@ The dashboard gives information about some of the majorly ordered products, prod
 The dashboard represents all the  key sales metrics and data that provides insights into the performance of the business. It gives information about the sales by region, customer retention and the KPIs of all the targets. The dashboard also gives information about th MoM sales growth,sales trends and sales forecast for the upcoming 10 months.
 <img width="594" alt="3" src="https://user-images.githubusercontent.com/126397614/226257599-13288c07-9113-457d-91a1-013749d0ea8c.png">
 
-**The dashboard gives the following key findings. **
+**Insights**
 
 
 <img width="594" alt="4" src="https://user-images.githubusercontent.com/126397614/226257601-a27b5ddb-5ba3-44ef-ba71-af53e02d3588.png">
